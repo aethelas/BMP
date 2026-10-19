@@ -1,6 +1,6 @@
 BMP Reader на Flet
-
-1) python -m pip install -r requirements.txt
+##Обязательно в консоли
+python -m pip install -r requirements.txt
 
 ## Запуск
 
